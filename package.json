@@ -1,0 +1,25 @@
+{
+  "name": "yf9shsame",
+  "version": "0.0.1",
+  "description": "yf9shsame",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youngfor9/yf9shsame.git"
+  },
+  "keywords": [
+    "tea"
+  ],
+  "author": "yf9shsame",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youngfor9/yf9shsame/issues"
+  },
+  "homepage": "https://github.com/youngfor9/yf9shsame#readme",
+  "dependencies": {
+    "tea-datetime-generator": "^1.0.1"
+  }
+}
